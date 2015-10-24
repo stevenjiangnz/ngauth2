@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/stevenjiangnz/ngauth2#readme",
   "dependencies": {
+    "angular": "^1.4.7",
     "jquery": "^2.1.4"
   },
   "devDependencies": {
+    "gulp": "^3.9.0",
     "karma": "^0.13.14"
   }
 }
