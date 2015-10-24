@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stevenjiangnz/ngauth2/issues"
   },
-  "homepage": "https://github.com/stevenjiangnz/ngauth2#readme"
+  "homepage": "https://github.com/stevenjiangnz/ngauth2#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
 }
