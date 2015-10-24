@@ -18,5 +18,8 @@
   "homepage": "https://github.com/stevenjiangnz/ngauth2#readme",
   "dependencies": {
     "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "karma": "^0.13.14"
   }
 }
