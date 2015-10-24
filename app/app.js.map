@@ -1,1 +1,1 @@
-{"version":3,"file":"app.js","sourceRoot":"","sources":["app.ts"],"names":["myclass","myclass.constructor"],"mappings":"AAGA,AAHA;;GAEG;IACG,OAAO;IACTA,SADEA,OAAOA,CACWA,IAAWA;QAAXC,SAAIA,GAAJA,IAAIA,CAAOA;IAE/BA,CAACA;IACLD,cAACA;AAADA,CAACA,AAJD,IAIC"}
+{"version":3,"file":"app.js","sourceRoot":"","sources":["app.ts"],"names":["appClass","appClass.constructor"],"mappings":"AAGA,AAHA;;GAEG;IACG,QAAQ;IAEVA,SAFEA,QAAQA,CAEEA,IAAWA;QACnBC,IAAIA,CAACA,IAAIA,GAAGA,IAAIA,CAACA;IACrBA,CAACA;IACLD,eAACA;AAADA,CAACA,AALD,IAKC"}
