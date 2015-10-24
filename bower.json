@@ -1,0 +1,19 @@
+{
+  "name": "ngauth2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stevenjiangnz/ngauth2",
+  "authors": [
+    "Steven <sj@jnetsolution.com.au>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
